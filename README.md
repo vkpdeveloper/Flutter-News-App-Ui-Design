@@ -2,7 +2,7 @@
 Latest Flutter News App Material Ui Design. You can use this design in any of your projects.
 
 ## Screenshot
-<img src="https://github.com/vkpdeveloper/Flutter-News-App-Ui-Design/blob/master/Screenshot.jpeg?raw=true" alt="News App Screenshot" width="200"/> { float: center; }
+<img src="https://github.com/vkpdeveloper/Flutter-News-App-Ui-Design/blob/master/Screenshot.jpeg?raw=true" alt="News App Screenshot" width="200"/>
 
 ## Used Widgets
 1. Material App
